@@ -20,14 +20,43 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; threedscans-downloader/1.0)"}
 DELAY = 1.0  # seconds between requests
 
 
-def load_cache() -> set:
-    if CACHE_FILE.exists():
-        return set(json.loads(CACHE_FILE.read_text()))
-    return set()
+def load_cache() -> dict:
+    """Cache maps download URL -> local filename.
+
+    Older runs wrote a bare list of URLs; migrate those by recomputing the
+    filename, which is what the list form implied anyway.
+    """
+    if not CACHE_FILE.exists():
+        return {}
+    data = json.loads(CACHE_FILE.read_text())
+    if isinstance(data, list):
+        return {url: urlparse(url).path.split("/")[-1] for url in data}
+    return data
 
 
-def save_cache(cache: set):
-    CACHE_FILE.write_text(json.dumps(sorted(cache), indent=2))
+def save_cache(cache: dict):
+    CACHE_FILE.write_text(json.dumps(dict(sorted(cache.items())), indent=2))
+
+
+def local_name(url: str, cache: dict) -> str:
+    """Local filename for a URL, disambiguated when two URLs share a basename.
+
+    Distinct objects can share a filename — the Vatican Museums and Campi
+    Flegrei Hermanubis scans are both served as Hermanubis.stl.zip. Falling back
+    to the basename alone silently drops one, so a colliding URL is prefixed
+    with its /YYYY/MM/ upload segment.
+    """
+    parts = urlparse(url).path.strip("/").split("/")
+    name = parts[-1]
+
+    claimant = next((u for u, n in cache.items() if n == name), None)
+    if claimant is None or claimant == url:
+        return name
+
+    # wp-content/uploads/YYYY/MM/file — use the date segment as the qualifier.
+    if len(parts) >= 3 and parts[-3].isdigit() and parts[-2].isdigit():
+        return f"{parts[-3]}-{parts[-2]}_{name}"
+    return f"{abs(hash(url)) % 10**6}_{name}"
 
 
 def get_soup(url: str) -> BeautifulSoup | None:
@@ -80,17 +109,17 @@ def get_download_links(item_url: str) -> list[str]:
     return links
 
 
-def download_file(url: str, cache: set):
-    filename = urlparse(url).path.split("/")[-1]
-    dest = DOWNLOAD_DIR / filename
-
+def download_file(url: str, cache: dict):
     if url in cache:
-        print(f"    [skip] {filename}")
+        print(f"    [skip] {cache[url]}")
         return
+
+    filename = local_name(url, cache)
+    dest = DOWNLOAD_DIR / filename
 
     if dest.exists():
         print(f"    [skip] {filename} (file exists)")
-        cache.add(url)
+        cache[url] = filename
         save_cache(cache)
         return
 
@@ -102,12 +131,23 @@ def download_file(url: str, cache: set):
     # run leaves no truncated file that a later run would mistake for complete.
     DOWNLOAD_DIR.mkdir(exist_ok=True)
     partial = dest.with_suffix(dest.suffix + ".part")
-    with open(partial, "wb") as f:
-        for chunk in resp.iter_content(chunk_size=8192):
-            f.write(chunk)
-    partial.rename(dest)
+    try:
+        with open(partial, "wb") as f:
+            for chunk in resp.iter_content(chunk_size=8192):
+                f.write(chunk)
+        # Guard against a connection that drops mid-body: requests raises for a
+        # broken read, but a short body can also arrive without an exception.
+        expected = resp.headers.get("Content-Length")
+        if expected is not None and partial.stat().st_size != int(expected):
+            raise OSError(
+                f"{filename}: got {partial.stat().st_size} bytes, expected {expected}"
+            )
+        partial.rename(dest)
+    except BaseException:
+        partial.unlink(missing_ok=True)
+        raise
 
-    cache.add(url)
+    cache[url] = filename
     save_cache(cache)
     time.sleep(DELAY)
 
@@ -129,7 +169,7 @@ def main():
                 continue
             for link in links:
                 download_file(link, cache)
-        except requests.RequestException as e:
+        except (requests.RequestException, OSError) as e:
             print(f"    [error] {e}")
 
     print(f"\nDone. {len(cache)} files in cache.")

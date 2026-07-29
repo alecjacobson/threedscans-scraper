@@ -17,6 +17,7 @@ from bs4 import BeautifulSoup
 
 BASE_URL = "https://threedscans.com/"
 METADATA_FILE = Path("metadata.json")
+CACHE_FILE = Path("cache.json")
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; threedscans-downloader/1.0)"}
 DELAY = 1.0
 
@@ -52,7 +53,19 @@ def get_item_urls():
     return urls
 
 
-def parse_item(url):
+def load_local_names():
+    """URL -> local filename, so `files` names what is actually on disk.
+
+    Two URLs can share a basename (see local_name in scrape.py), so the
+    basename alone is not a reliable local identifier.
+    """
+    if not CACHE_FILE.exists():
+        return {}
+    data = json.loads(CACHE_FILE.read_text())
+    return data if isinstance(data, dict) else {}
+
+
+def parse_item(url, local_names=None):
     """Pull title, download links, and whatever labelled metadata the page has."""
     soup = get_soup(url)
     if soup is None:
@@ -67,10 +80,14 @@ def parse_item(url):
         "meta": {},
     }
 
+    local_names = local_names or {}
     for a in soup.find_all("a", href=True):
         if a.get_text().strip() == "Download Scan":
-            entry["downloads"].append(a["href"])
-            entry["files"].append(unquote(urlparse(a["href"]).path.split("/")[-1]))
+            href = a["href"]
+            entry["downloads"].append(href)
+            entry["files"].append(
+                local_names.get(href, unquote(urlparse(href).path.split("/")[-1]))
+            )
 
     for div in soup.select("div.singleSection"):
         text = div.get_text(" ", strip=True)
@@ -90,11 +107,12 @@ def main():
     item_urls = get_item_urls()
     print(f"Found {len(item_urls)} item pages\n")
 
+    local_names = load_local_names()
     records = []
     for i, url in enumerate(item_urls, 1):
         print(f"[{i}/{len(item_urls)}] {url}")
         try:
-            entry = parse_item(url)
+            entry = parse_item(url, local_names)
             if entry:
                 records.append(entry)
         except requests.RequestException as e:

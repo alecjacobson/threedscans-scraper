@@ -21,7 +21,7 @@ size_categories:
 A mirror of [threedscans.com](https://threedscans.com/), the archive of high-resolution
 3D scans of museum objects initiated in 2012 by artist **Oliver Laric**.
 
-133 archives (5.4 GB) covering antiquities, classical and 19th-century sculpture,
+134 files (5.5 GB) covering antiquities, classical and 19th-century sculpture,
 anatomical casts, and natural-history specimens, scanned in collaboration with museums
 across Europe.
 
@@ -32,13 +32,22 @@ This mirror exists so the collection can be fetched programmatically and cited s
 
 | | |
 | --- | --- |
-| Archives | 133 files, 5.4 GB |
-| Formats | `.stl.zip`, `.OBJ.zip`, and 9 uncompressed `.stl` |
+| Files | 134 total, 5.5 GB |
+| Formats | 125 `.zip` (`.stl.zip` / `.OBJ.zip`) and 9 uncompressed `.stl` |
 | Metadata | `metadata.json` — per-object title, period, material, holding institution, scan year, scan method, source URL |
 
 Files are mirrored exactly as served by threedscans.com — no re-meshing, re-encoding, or
 format conversion. Meshes are raw scan output: many are non-manifold or have boundary
 edges, which is often the point if you are testing geometry-processing code.
+
+### Filenames
+
+Filenames are the source basenames, with one exception. Two distinct objects are both
+served as `Hermanubis.stl.zip` — one from the Vatican Museums, one from the Museo
+Archeologico dei Campi Flegrei a Baia. Where a basename collides, the file is prefixed
+with its upload date, giving `2017-01_Hermanubis.stl.zip` for the Vatican object. Use the
+`files` field in `metadata.json` rather than deriving names from URLs; it always records
+the name as stored here.
 
 ## Usage
 
