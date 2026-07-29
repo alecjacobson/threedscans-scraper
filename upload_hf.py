@@ -19,6 +19,7 @@ REPO_ID = "alecjacobson/threedscans"
 DOWNLOAD_DIR = Path("downloads")
 METADATA = Path("metadata.json")
 CARD = Path("DATASET_CARD.md")
+TERMS = Path("DATA_TERMS.txt")
 
 
 def main():
@@ -38,6 +39,14 @@ def main():
         repo_id=REPO_ID,
         repo_type="dataset",
         commit_message="Add dataset card with provenance and attribution",
+    )
+    # HF requires the terms text in a LICENSE file when license: other is used.
+    api.upload_file(
+        path_or_fileobj=str(TERMS),
+        path_in_repo="LICENSE",
+        repo_id=REPO_ID,
+        repo_type="dataset",
+        commit_message="Add data terms",
     )
     api.upload_file(
         path_or_fileobj=str(METADATA),

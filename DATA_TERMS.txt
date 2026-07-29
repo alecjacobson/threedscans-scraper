@@ -1,0 +1,72 @@
+TERMS FOR THE SCAN DATA IN THIS DATASET
+=======================================
+
+Short version: the author of these scans has stated publicly that they may be
+downloaded and used without copyright restrictions. This mirror passes that on
+unchanged. It adds no restrictions of its own and grants no rights beyond what
+the author has stated. Please credit the scan project and the holding museum.
+
+1. WHAT THIS DATASET IS
+-----------------------
+
+An unofficial mirror of threedscans.com, an archive of 3D scans of museum
+objects initiated in 2012 by the artist Oliver Laric, produced in collaboration
+with museums across Europe.
+
+The files are mirrored exactly as served by threedscans.com. Nothing has been
+re-meshed, re-encoded, or converted. The mirror claims no copyright, database
+right, or other right in the scans or in this collection of them.
+
+2. WHAT THE AUTHOR HAS SAID
+---------------------------
+
+threedscans.com itself carries no licensing or terms-of-use text. As of July
+2026 there is no such statement on its homepage, its Info page, or any item
+page.
+
+The permission relied on here is Oliver Laric's own statement on his companion
+project Lincoln 3D Scans (https://www.lincoln3dscans.co.uk/info), run with The
+Collection in Lincoln, to the effect that all models there can be downloaded and
+used without copyright restrictions. Published accounts of threedscans.com
+report the same intent for the wider archive: that Laric asserts no copyright
+over the scans and intends them to circulate freely.
+
+3. THE LIMITS OF THAT, STATED PLAINLY
+-------------------------------------
+
+a. The explicit statement is published for the Lincoln project. It is strong
+   evidence of intent for the whole archive, but threedscans.com carries no
+   equivalent text of its own.
+
+b. It is a statement that no restrictions are asserted. It is not a formal
+   license instrument. This dataset therefore is NOT tagged CC0 or PDDL: those
+   are dedications that only the rights holder can execute, and the author has
+   not executed one in those terms.
+
+c. The underlying objects are overwhelmingly public-domain works. However, some
+   jurisdictions may recognise rights in a 3D scan of a public-domain work, and
+   holding institutions may impose their own conditions, particularly on
+   commercial reuse. If your use is commercial, check with the relevant
+   institution.
+
+d. Nothing here is legal advice. If your use depends on the answer, seek your
+   own.
+
+4. ATTRIBUTION
+--------------
+
+Credit both the scan project and the institution holding the object. Example:
+
+    Scan by Oliver Laric, threedscans.com. Object: Siren, 4th century CE,
+    marble, National Archaeological Museum Athens.
+
+The file metadata.json in this repository gives the title, period, material,
+holding institution, scan year, and scan method for every object, so per-file
+attribution can be generated automatically.
+
+5. TAKEDOWN
+-----------
+
+If you are Oliver Laric, or an institution holding one of these objects, and you
+want material removed or these terms restated, open a discussion on this dataset
+and it will be taken down promptly and without argument.

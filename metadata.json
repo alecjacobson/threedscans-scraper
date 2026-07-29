@@ -1,1342 +1,2187 @@
 [
   {
     "url": "https://threedscans.com/uncategorized/siren/",
-    "title": null,
+    "title": "Siren",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2025/10/Siren-1.stl.zip"
     ],
     "files": [
       "Siren-1.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "4th century CE",
+      "material": "Marble",
+      "location": "National Archaeological Museum Athens",
+      "scanned": "2025",
+      "scanner": "Photogrammetry and digital sculpting"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/centaur/",
-    "title": null,
+    "title": "Centaur",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2025/10/Centaur.stl.zip"
     ],
     "files": [
       "Centaur.stl.zip"
-    ]
+    ],
+    "meta": {
+      "period": "1st century CE",
+      "location": "Villa Poppaea, Oplontis",
+      "scanned": "2025",
+      "scanner": "Photogrammetry and digital sculpting"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/seated-sphinx-with-griffin-head/",
-    "title": null,
+    "title": "Seated Sphinx with Griffin Head",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2025/10/Seated-Sphinx-with-Griffin-Head.stl.zip"
     ],
     "files": [
       "Seated-Sphinx-with-Griffin-Head.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "1st–2nd century CE",
+      "material": "Marble",
+      "scanned": "2025",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/kunsthistorisches-museum-wien/four-headed-sphinx/",
-    "title": null,
+    "title": "Four-headed Sphinx",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2025/10/4headed.stl.zip"
     ],
     "files": [
       "4headed.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "2nd century CE",
+      "location": "Kunsthistorisches Museum Wien",
+      "scanned": "2025",
+      "scanner": "Einstar VEGA"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/colchester-sphinx/",
-    "title": null,
+    "title": "Colchester Sphinx",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2025/10/Colchester-Sphinx.stl.zip"
     ],
     "files": [
       "Colchester-Sphinx.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "1st century CE",
+      "location": "Colchester Castle Museum",
+      "scanned": "2025",
+      "scanner": "Photogrammetry and digital sculpting"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/pan/",
-    "title": null,
+    "title": "Pan",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2025/10/Pan.stl.zip"
     ],
     "files": [
       "Pan.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "material": "Marble",
+      "location": "Heraklion Archaeological Museum",
+      "scanned": "2025",
+      "scanner": "Photogrammetry and digital sculpting"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/aion/",
-    "title": null,
+    "title": "Aion",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2025/10/Aion-Louvre.stl.zip"
     ],
     "files": [
       "Aion-Louvre.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "2nd century CE",
+      "material": "Marble",
+      "location": "Louvre",
+      "scanned": "2025",
+      "scanner": "Einstar Vega"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/neptune-restored-by-iustinian-funie/",
-    "title": null,
+    "title": "Neptune (restored by Iustinian Funie)",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2023/04/Neptune_Iustinian_Funie.obj.zip"
     ],
     "files": [
       "Neptune_Iustinian_Funie.obj.zip"
-    ]
+    ],
+    "meta": {
+      "location": "Musée de la Romanité",
+      "scanned": "2002",
+      "scanner": "Photogrammetry"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/neptune/",
-    "title": null,
+    "title": "Neptune",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2023/04/neptuneRaw.stl.zip"
     ],
     "files": [
       "neptuneRaw.stl.zip"
-    ]
+    ],
+    "meta": {
+      "location": "Musée de la Romanité",
+      "scanned": "2022",
+      "scanner": "Photogrammetry"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/roasting-of-the-boar/",
-    "title": null,
+    "title": "Roasting of the Boar",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2023/03/roasting_lower_Rez.obj.zip"
     ],
     "files": [
       "roasting_lower_Rez.obj.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "1st century AD",
+      "material": "Marble",
+      "location": "Naples National Archaeological Museum",
+      "scanned": "2021",
+      "scanner": "Post Production by Iustinian Funie"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/relief-with-bulls-legs/",
-    "title": null,
+    "title": "Ox Relief",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2023/03/relief_au_taureau_lower_Rez.obj.zip"
     ],
     "files": [
       "relief_au_taureau_lower_Rez.obj.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "1st half 12th century",
+      "material": "White limestone",
+      "location": "Musée de la Romanité",
+      "scanned": "2022",
+      "scanner": "Photogrammetry by Alik Kadoum and digital sculpting by Iustinian Funie"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/glycon/",
-    "title": null,
+    "title": "Glycon",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2023/02/Glykon.obj.zip"
     ],
     "files": [
       "Glykon.obj.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "2nd century",
+      "material": "Marble",
+      "location": "National History and Archeology Museum Constanţa",
+      "scanned": "2023",
+      "scanner": "Photogrammetry"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/pan-and-bacchus-restored/",
-    "title": null,
+    "title": "Pan and Bacchus (restored)",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2022/12/Pan_corrected_threedscans.obj.zip"
     ],
     "files": [
       "Pan_corrected_threedscans.obj.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "1st to 2nd century",
+      "material": "Marble",
+      "location": "Musée de la Romanité",
+      "scanned": "2022",
+      "scanner": "Photogrammetry by Alik Kadoum and digital sculpting by Iustinian Funie"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/pan-and-bacchus/",
-    "title": null,
+    "title": "Pan and Bacchus",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2022/12/Pan_raw_threedscans.obj.zip"
     ],
     "files": [
       "Pan_raw_threedscans.obj.zip"
-    ]
+    ],
+    "meta": {
+      "period": "1st to 2nd century",
+      "material": "Marble",
+      "location": "Musée de la Romanité",
+      "scanned": "2022",
+      "scanner": "Photogrammetry"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/enfant-au-chien-restored/",
-    "title": null,
+    "title": "Enfant au Chien (restored)",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2022/11/enfant_au_chien_threedscans.obj.zip"
     ],
     "files": [
       "enfant_au_chien_threedscans.obj.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "1st century",
+      "material": "Marble",
+      "location": "Musée de la Romanité",
+      "scanned": "2022",
+      "scanner": "Photogrammetry"
+    }
   },
   {
     "url": "https://threedscans.com/musee-de-la-romanite/enfant-au-chien/",
-    "title": null,
+    "title": "Enfant au Chien",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2022/11/enfant_au_chien_raw_threedscans.obj.zip"
     ],
     "files": [
       "enfant_au_chien_raw_threedscans.obj.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "Ist  century",
+      "material": "Marble",
+      "location": "Musée de la Romanité",
+      "scanned": "2022",
+      "scanner": "Photogrammetry"
+    }
   },
   {
     "url": "https://threedscans.com/museo-archeologico-dei-campi-flegrei-a-baia/hermanubis-restored/",
-    "title": null,
+    "title": "Hermanubis (restored)",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2022/09/Hermanubis.stl.zip"
     ],
     "files": [
       "Hermanubis.stl.zip"
-    ]
+    ],
+    "meta": {
+      "material": "Marble",
+      "location": "Museo Archeologico dei Campi Flegrei a Baia",
+      "scanned": "2021",
+      "scanner": "Photogrammetry"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/hermanubis-2/",
-    "title": null,
+    "title": "Hermanubis",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2022/09/Hermanubis-Broken.stl"
     ],
     "files": [
       "Hermanubis-Broken.stl"
-    ]
+    ],
+    "meta": {
+      "material": "Marble",
+      "location": "Museo Archeologico dei Campi Flegrei a Baia",
+      "scanned": "2021",
+      "scanner": "Photogrammetry"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/sleeping-hermaphroditus/",
-    "title": null,
+    "title": "Sleeping Hermaphroditus",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2022/06/Sleeping-Hermaphroditus.obj.zip"
     ],
     "files": [
       "Sleeping-Hermaphroditus.obj.zip"
-    ]
+    ],
+    "meta": {
+      "period": "1st Century AD; 2nd Century AD (partial reconstruction in 2022 by Ran Manolov)",
+      "material": "Marble",
+      "location": "National Museums Liverpool",
+      "scanned": "2021"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/sleeping-venus/",
-    "title": null,
+    "title": "Sleeping Venus",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2022/06/Sleeping-Venus.obj.zip"
     ],
     "files": [
       "Sleeping-Venus.obj.zip"
-    ]
+    ],
+    "meta": {
+      "period": "1st Century AD; 2nd Century AD",
+      "material": "Marble",
+      "location": "National Museums Liverpool"
+    }
   },
   {
     "url": "https://threedscans.com/fondazione-torlonia/ulysses-under-the-ram/",
-    "title": null,
+    "title": "Ulysses under the ram",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2022/01/Ram.obj.zip"
     ],
     "files": [
       "Ram.obj.zip"
-    ]
+    ],
+    "meta": {
+      "period": "1st century AD",
+      "material": "Marble"
+    }
   },
   {
     "url": "https://threedscans.com/fondazione-torlonia/statue-of-resting-goat/",
-    "title": null,
+    "title": "Statue of Resting Goat",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2022/01/GOAT.obj.zip"
     ],
     "files": [
       "GOAT.obj.zip"
-    ]
+    ],
+    "meta": {
+      "period": "3rd century BC",
+      "material": "Marble",
+      "scanned": "2021"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/actaeon/",
-    "title": null,
+    "title": "Actaeon",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2022/01/Actaeon.obj.zip"
     ],
     "files": [
       "Actaeon.obj.zip"
-    ]
+    ],
+    "meta": {
+      "period": "1532",
+      "material": "Wood",
+      "scanned": "2021"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/jenner-vaccinating-his-own-son-against-smallpox/",
-    "title": null,
+    "title": "Jenner vaccinating his own son against smallpox",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2021/09/Jenner-Post.obj.zip"
     ],
     "files": [
       "Jenner-Post.obj.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Giulio Monteverde",
+      "period": "1878",
+      "material": "Marble",
+      "location": "Galleria D'Arte Moderna Genoa",
+      "scanned": "2021",
+      "scanner": "Photogrammetry"
+    }
   },
   {
     "url": "https://threedscans.com/ferdinandeum-innsbruck/thetis/",
-    "title": null,
+    "title": "Thetis",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2021/03/Thetis.obj.zip"
     ],
     "files": [
       "Thetis.obj.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Caspar Gras",
+      "period": "1622/30",
+      "material": "Bronze",
+      "location": "Ferdinandeum Innsbruck"
+    }
   },
   {
     "url": "https://threedscans.com/ferdinandeum-innsbruck/gruppe-mit-zwei-windhunden/",
-    "title": null,
+    "title": "Gruppe mit zwei Windhunden",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2020/11/Hundepaar.OBJ.zip"
     ],
     "files": [
       "Hundepaar.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Franzoni Francesco Antonio",
+      "period": "1770 - 1790",
+      "material": "Marble",
+      "location": "Tiroler Landesmuseum",
+      "scanned": "2020"
+    }
   },
   {
     "url": "https://threedscans.com/ferdinandeum-innsbruck/triton/",
-    "title": null,
+    "title": "Triton",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2020/08/200720_Triton-2.OBJ.zip"
     ],
     "files": [
       "200720_Triton-2.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Caspar Gras",
+      "period": "1622/30",
+      "material": "Bronze",
+      "location": "Ferdinandeum Innsbruck"
+    }
   },
   {
     "url": "https://threedscans.com/ferdinandeum-innsbruck/oceanus/",
-    "title": null,
+    "title": "Oceanus",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2020/07/Oceanus100.stl.zip"
     ],
     "files": [
       "Oceanus100.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Caspar Gras",
+      "period": "1622/30",
+      "material": "Bronze",
+      "location": "Ferdinandeum Innsbruck"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/the-townley-greyhounds/",
-    "title": null,
+    "title": "The Townley Greyhounds",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2020/02/Townley-Greyhounds.OBJ.zip"
     ],
     "files": [
       "Townley-Greyhounds.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "period": "1stC-2ndC",
+      "material": "Marble",
+      "location": "The British Museum"
+    }
   },
   {
     "url": "https://threedscans.com/court-church-innsbruck/theodoric-the-great/",
-    "title": null,
+    "title": "Theodoric the Great",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2020/02/FullBody_Decimated.OBJ.zip"
     ],
     "files": [
       "FullBody_Decimated.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Peter Vischer the Elder, based on a design by Albrecht Dürer",
+      "period": "1512–13",
+      "material": "Bronze",
+      "location": "Court Church Innsbruck"
+    }
   },
   {
     "url": "https://threedscans.com/museums-im-goldenen-dachl/grotesque-helmet/",
-    "title": null,
+    "title": "Grotesque Helmet",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2020/02/HelmetMoustacheDecimated.OBJ.zip"
     ],
     "files": [
       "HelmetMoustacheDecimated.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Konrad Seusenhofer",
+      "period": "Between 1515 and 1525",
+      "material": "Steel",
+      "location": "Museum Goldenes Dachl"
+    }
   },
   {
     "url": "https://threedscans.com/royal-armouries-museum/horned-helmet/",
-    "title": null,
+    "title": "Horned Helmet",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2020/01/HornedHelmetDownload.obj.zip"
     ],
     "files": [
       "HornedHelmetDownload.obj.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Konrad Seusenhofer",
+      "period": "1512",
+      "material": "Iron",
+      "location": "Royal Armouries Museum"
+    }
   },
   {
     "url": "https://threedscans.com/bode-museum/haupt-johannes-des-taufers-in-einer-schussel/",
-    "title": null,
+    "title": "Head of Saint John the Baptist on a Platter",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2019/12/John_the_Baptist.obj.zip"
     ],
     "files": [
       "John_the_Baptist.obj.zip"
-    ]
+    ],
+    "meta": {
+      "period": "1430",
+      "material": "Oak",
+      "location": "Bode Museum",
+      "scanned": "2019",
+      "scanner": "Photogrammetry and Zbrush"
+    }
   },
   {
     "url": "https://threedscans.com/saint-louis-art-museum/zenobia-in-chains/",
-    "title": null,
+    "title": "Zenobia in Chains",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2019/03/Hosmer.OBJ.zip"
     ],
     "files": [
       "Hosmer.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Harriet Hosmer",
+      "period": "c.1859",
+      "material": "Marble",
+      "location": "Saint Louis Art Museum",
+      "scanned": "2019"
+    }
   },
   {
     "url": "https://threedscans.com/saint-louis-art-museum/striding-eagle/",
-    "title": null,
+    "title": "Striding Eagle",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2019/02/Eagle_custom_Normals.obj.zip"
     ],
     "files": [
       "Eagle_custom_Normals.obj.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "16th century",
+      "material": "Marble",
+      "location": "Saint Louis Art Museum",
+      "scanned": "2018"
+    }
   },
   {
     "url": "https://threedscans.com/saint-louis-art-museum/reclining-pan/",
-    "title": null,
+    "title": "Reclining Pan",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2018/07/Pan_fixed_.OBJ.zip"
     ],
     "files": [
       "Pan_fixed_.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "attributed to Francesco da Sangallo, Italian, 1494–1576",
+      "period": "c.1535",
+      "material": "marble",
+      "location": "Saint Louis Art Museum",
+      "scanned": "2018"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/henri-iv-enfant/",
-    "title": null,
+    "title": "Henri IV enfant",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2018/04/BOSIO_fix.OBJ.zip"
     ],
     "files": [
       "BOSIO_fix.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "François Joseph Bosio",
+      "material": "Bronze",
+      "location": "Nouveau Musée National de Monaco",
+      "scanned": "2018",
+      "scanner": "Creaform"
+    }
   },
   {
     "url": "https://threedscans.com/nouveau-musee-national-de-monaco/napoleon-ler/",
-    "title": null,
+    "title": "Napoléon ler",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2018/04/NAPOLEON_fix.OBJ.zip"
     ],
     "files": [
       "NAPOLEON_fix.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "François Joseph Bosio",
+      "period": "Before 1807",
+      "material": "Marble",
+      "location": "Nouveau Musée National de Monaco",
+      "scanned": "2018",
+      "scanner": "Creaform"
+    }
   },
   {
     "url": "https://threedscans.com/nouveau-musee-national-de-monaco/la-nymphe-salmacis/",
-    "title": null,
+    "title": "La Nymphe Salmacis",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2018/04/NYMPH_fix1.OBJ.zip"
     ],
     "files": [
       "NYMPH_fix1.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "François Joseph Bosio",
+      "period": "1819-1837",
+      "material": "Marble",
+      "location": "Nouveau Musée National de Monaco",
+      "scanned": "2018",
+      "scanner": "Creaform"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/pan-et-oursons/",
-    "title": null,
+    "title": "Pan et Oursons",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2017/07/pan_edited_.zip"
     ],
     "files": [
       "pan_edited_.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Emmanuel Fremiet",
+      "period": "1867",
+      "material": "Marble",
+      "location": "Musée d'Orsay, Paris, France",
+      "scanned": "2017",
+      "scanner": "Photogrammetry"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/portrait-of-a-man/",
-    "title": null,
+    "title": "Portrait of a Man",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2017/01/Bearded-Man.stl.zip"
     ],
     "files": [
       "Bearded-Man.stl.zip"
-    ]
+    ],
+    "meta": {
+      "period": "About 150 B.C.",
+      "material": "Marble"
+    }
   },
   {
     "url": "https://threedscans.com/vatican-museums/hermanubis/",
-    "title": null,
+    "title": "Hermanubis",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2017/01/Hermanubis.stl.zip"
     ],
     "files": [
       "Hermanubis.stl.zip"
-    ]
+    ],
+    "meta": {
+      "period": "1st-2nd century AD",
+      "material": "Marble",
+      "location": "Vatican Museums"
+    }
   },
   {
     "url": "https://threedscans.com/utrecht/anna-retable/",
-    "title": null,
+    "title": "St. Anna Retable",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/10/Anna_te_Drieen_FINAL.stl.zip"
     ],
     "files": [
       "Anna_te_Drieen_FINAL.stl.zip"
-    ]
+    ],
+    "meta": {
+      "period": "Around 1500, defaced on the 7th of March 1580",
+      "location": "St. Martin's Cathedral",
+      "scanned": "2016"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/bust/",
-    "title": null,
+    "title": "Photosculpture",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/10/Photosculpture.stl.zip"
     ],
     "files": [
       "Photosculpture.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "François Willème",
+      "period": "1864-67",
+      "material": "Biscuit",
+      "location": "Collection Gérard Lévy",
+      "scanned": "2015"
+    }
   },
   {
     "url": "https://threedscans.com/depot-des-sculptures-de-la-ville-de-paris/rhino/",
-    "title": null,
+    "title": "Rhinocéros",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/10/Alfred-Jacquemart.OBJ.zip"
     ],
     "files": [
       "Alfred-Jacquemart.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Henri-Alfred Jacquemart",
+      "period": "1878",
+      "material": "Plaster",
+      "location": "Dépôt des sculptures de la Ville de Paris"
+    }
   },
   {
     "url": "https://threedscans.com/depot-des-sculptures-de-la-ville-de-paris/drameaudesert/",
-    "title": null,
+    "title": "Drame au désert",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/10/Georges-Gardet.OBJ.zip"
     ],
     "files": [
       "Georges-Gardet.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Georges Gardet",
+      "period": "1887",
+      "material": "Plaster",
+      "location": "Dépôt des sculptures de la Ville de Paris"
+    }
   },
   {
     "url": "https://threedscans.com/depot-des-sculptures-de-la-ville-de-paris/panther/",
-    "title": null,
+    "title": "Panther",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/10/P.stl.zip"
     ],
     "files": [
       "P.stl.zip"
-    ]
+    ],
+    "meta": {
+      "location": "Dépôt des sculptures de la Ville de Paris"
+    }
   },
   {
     "url": "https://threedscans.com/depot-des-sculptures-de-la-ville-de-paris/deuxchiensdemeutealattache/",
-    "title": null,
+    "title": "Deux chiens de meute à l’attache",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/10/Georges-Lucien-Vacossin.OBJ.zip"
     ],
     "files": [
       "Georges-Lucien-Vacossin.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Georges Lucien Vacossin",
+      "period": "1911",
+      "location": "Dépôt des sculptures de la Ville de Paris"
+    }
   },
   {
     "url": "https://threedscans.com/doria-pamphili-gallery/ulysses-escaping-from-polyphemus-the-cyclops/",
-    "title": null,
+    "title": "Ulysses escaping from Polyphemus the Cyclops",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2020/04/sheep_version_06.stl.zip"
     ],
     "files": [
       "sheep_version_06.stl.zip"
-    ]
+    ],
+    "meta": {
+      "period": "2nd century",
+      "material": "Marble",
+      "location": "Doria Pamphili Gallery",
+      "scanned": "Width 96 cm Height 91 cm"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/lion/",
-    "title": null,
+    "title": "Lion",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/10/Bayon-Lion.OBJ.zip"
     ],
     "files": [
       "Bayon-Lion.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "location": "Musée Guimet, Paris"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/2226/",
-    "title": null,
+    "title": "Plaster Cast of a Gatekeeper of The Temple of Lolei",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/10/Lolei.stl.zip"
     ],
     "files": [
       "Lolei.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Sylvain Raffegeaud (unconfirmed)",
+      "period": "1887-1890 (unconfirmed)",
+      "material": "Plaster",
+      "location": "Musée Guimet, Paris"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/molding-of-the-central-part-of-east-lintel-of-prasat-krahom-depicting-vishnu-narasimha/",
-    "title": null,
+    "title": "Plaster Cast of the central part of East lintel of Prasat Krahom depicting Vishnu Narasimha",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/10/Vishnu-Narasimha.OBJ.zip"
     ],
     "files": [
       "Vishnu-Narasimha.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "period": "1881-1882",
+      "material": "Plaster",
+      "location": "Musée Guimet, Paris"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/molding-of-a-section-of-the-bas-relief-of-angkor-wat-depicting-samudra-manthan-churning-of-the-ocean-of-milk/",
-    "title": null,
+    "title": "Plaster Cast of a section of the bas-relief of Angkor Wat depicting  Samudra Manthan (Churning of the Ocean of Milk)",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/10/Samudra-Manthan.OBJ.zip"
     ],
     "files": [
       "Samudra-Manthan.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Joseph Ghilardi",
+      "period": "1881-1882",
+      "material": "Plaster",
+      "location": "Musée Guimet, Paris"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/2222/",
-    "title": null,
+    "title": "Plaster Cast of a section of the bas-relief of Bayon depicting a Naval Battle",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/10/Bas-Relief-Bayon.stl.zip"
     ],
     "files": [
       "Bas-Relief-Bayon.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Charles Carpeaux",
+      "period": "1904",
+      "material": "Plaster",
+      "location": "Musée Guimet, Paris"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/2218/",
-    "title": null,
+    "title": "Plaster Cast of False Pediment of Room for Dancers of Ta Prohm",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/10/Ta-Prohm.stl.zip"
     ],
     "files": [
       "Ta-Prohm.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Lucien Fournereau and Sylvain Raffegeaud",
+      "period": "1888-1889",
+      "material": "Plaster",
+      "location": "Musée Guimet, Paris"
+    }
   },
   {
     "url": "https://threedscans.com/walker-art-gallery/cupid-disguised-as-a-shepherd/",
-    "title": null,
+    "title": "Cupid Disguised as a Shepherd",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/06/Cupid-as-Shepherd_100MB.stl.zip"
     ],
     "files": [
       "Cupid-as-Shepherd_100MB.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "John Gibson",
+      "period": "Early 1840s",
+      "material": "Marble",
+      "location": "Walker Art Gallery",
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/walker-art-gallery/puck/",
-    "title": null,
+    "title": "Puck",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/06/Puck-on-Toadstool_100MB.stl.zip"
     ],
     "files": [
       "Puck-on-Toadstool_100MB.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Harriet Hosmer",
+      "period": "1856",
+      "material": "Marble",
+      "location": "Walker Art Gallery",
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/walker-art-gallery/sleeping-shepherd-boy/",
-    "title": null,
+    "title": "Sleeping Shepherd Boy",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/05/shepherd-boy.stl.zip"
     ],
     "files": [
       "shepherd-boy.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "John Gibson",
+      "period": "1834",
+      "material": "Marble",
+      "location": "Walker Art Gallery",
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/albertina/francois-willeme-1/",
-    "title": null,
+    "title": "Selfportrait (Photosculpture)",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Francois_Willeme_Selbsbildnis_LOW_170mb.stl.zip"
     ],
     "files": [
       "Francois_Willeme_Selbsbildnis_LOW_170mb.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "François Willème",
+      "period": "1860",
+      "material": "Plaster",
+      "location": "Albertina (Dauerleihgabe der Höheren Graphische Bundes-Lehr- und Versuchsanstalt)",
+      "scanned": "2016",
+      "scanner": "GOM ATOS III Triple Scan"
+    }
   },
   {
     "url": "https://threedscans.com/albertina/francois-willeme-2/",
-    "title": null,
+    "title": "Bursche im Sakko mit der linken Hand in der Hosentasche (Photosculpture)",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Francois_Willeme_Bursche_Im_Sakko.stl.zip"
     ],
     "files": [
       "Francois_Willeme_Bursche_Im_Sakko.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "François Willème",
+      "period": "1860",
+      "material": "Plaster",
+      "location": "Albertina",
+      "scanned": "2016",
+      "scanner": "GOM ATOS III Triple Scan"
+    }
   },
   {
     "url": "https://threedscans.com/albertina/joseph-anger/",
-    "title": null,
+    "title": "Bust of Gutenberg (Photosculpture)",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Photoskulptur_Gutenberg.stl.zip"
     ],
     "files": [
       "Photoskulptur_Gutenberg.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Josef Anger & Söhne",
+      "material": "Plaster",
+      "location": "Albertina (Dauerleihgabe der Höheren Graphische Bundes-Lehr- und Versuchsanstalt)",
+      "scanned": "2016",
+      "scanner": "GOM ATOS III Triple Scan"
+    }
   },
   {
     "url": "https://threedscans.com/albertina/willy-selke-tondo/",
-    "title": null,
+    "title": "Tondo with Portrait Profile (Photosculpture)",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Willy_Selke_Tondo.stl.zip"
     ],
     "files": [
       "Willy_Selke_Tondo.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Willy Selke",
+      "period": "1899",
+      "material": "Bronzed plaster",
+      "location": "Albertina (Dauerleihgabe der Höheren Graphische Bundes-Lehr- und Versuchsanstalt)",
+      "scanned": "2016",
+      "scanner": "GOM ATOS III Triple Scan"
+    }
   },
   {
     "url": "https://threedscans.com/albertina/poetschke/",
-    "title": null,
+    "title": "Bust of Johann Wolfgang von Goethe (Photosculpture)",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Poetsche_Photoskultur_Goethe.stl.zip"
     ],
     "files": [
       "Poetsche_Photoskultur_Goethe.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "H. Poetschke",
+      "period": "1917",
+      "material": "Plaster",
+      "location": "Albertina (Dauerleihgabe der Höheren Graphische Bundes-Lehr- und Versuchsanstalt)",
+      "scanned": "2016",
+      "scanner": "GOM ATOS III Triple Scan"
+    }
   },
   {
     "url": "https://threedscans.com/lifemask/goethe-lifemask/",
-    "title": null,
+    "title": "Lifemask of Johann Wolfgang von Goethe",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Goethe_Lifemask.obj.zip"
     ],
     "files": [
       "Goethe_Lifemask.obj.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Karl Gottlieb Weißer",
+      "period": "1807",
+      "material": "Plaster",
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/belvedere/sphinx_1/",
-    "title": null,
+    "title": "Sphinx",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Sphinx_1.stl.zip"
     ],
     "files": [
       "Sphinx_1.stl.zip"
-    ]
+    ],
+    "meta": {
+      "period": "First quarter of the 18th century",
+      "material": "Lime sandstone",
+      "location": "Schlossgarten Belvedere",
+      "scanned": "2016",
+      "scanner": "Mantis Vision F5-SR"
+    }
   },
   {
     "url": "https://threedscans.com/belvedere/sphinx_2/",
-    "title": null,
+    "title": "Sphinx",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Sphinx_2.stl.zip"
     ],
     "files": [
       "Sphinx_2.stl.zip"
-    ]
+    ],
+    "meta": {
+      "period": "First quarter of the 18th century",
+      "material": "Lime sandstone",
+      "location": "Schlossgarten Belvedere",
+      "scanned": "2016",
+      "scanner": "Mantis Vision F5-SR"
+    }
   },
   {
     "url": "https://threedscans.com/vienna/sphinx_3/",
-    "title": null,
+    "title": "Sphinx",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Sphinx_3.stl.zip"
     ],
     "files": [
       "Sphinx_3.stl.zip"
-    ]
+    ],
+    "meta": {
+      "period": "4th quarter of the 18th century",
+      "material": "Natural Stone",
+      "location": "Hohenbergstraße, 1120 Vienna",
+      "scanned": "2016",
+      "scanner": "Mantis Vision F5-SR"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/dragon_2/",
-    "title": null,
+    "title": "Plastic Dragon",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Dragon_2.obj.zip"
     ],
     "files": [
       "Dragon_2.obj.zip"
-    ]
+    ],
+    "meta": {
+      "material": "Polyurethane",
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/dragon_1/",
-    "title": null,
+    "title": "Plastic Dragon",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Dragon_1.obj.zip"
     ],
     "files": [
       "Dragon_1.obj.zip"
-    ]
+    ],
+    "meta": {
+      "material": "Polyurethane",
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/bootleg-eve/",
-    "title": null,
+    "title": "Bootleg Eve",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Bootleg_Eve.obj.zip"
     ],
     "files": [
       "Bootleg_Eve.obj.zip"
-    ]
+    ],
+    "meta": {
+      "material": "Polyurethane",
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/kunsthistorisches-museum-wien/jungling/",
-    "title": null,
+    "title": "Jüngling vom Magdalensberg",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Jüngling_Vom_Magdalensberg.obj.zip"
     ],
     "files": [
       "Jüngling_Vom_Magdalensberg.obj.zip"
-    ]
+    ],
+    "meta": {
+      "period": "16th Century",
+      "material": "Bronze",
+      "location": "Kunsthistorisches Museum Wien",
+      "scanned": "2016",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/sea-star/blue-sea-star/",
-    "title": null,
+    "title": "Blue Sea Star",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Blue_Sea_Star.obj.zip"
     ],
     "files": [
       "Blue_Sea_Star.obj.zip"
-    ]
+    ],
+    "meta": {
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/sea-star/horned-sea-star/",
-    "title": null,
+    "title": "Horned Sea Star",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Horned_Sea_Star.stl.zip"
     ],
     "files": [
       "Horned_Sea_Star.stl.zip"
-    ]
+    ],
+    "meta": {
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/shell/chiragra-spider-conch/",
-    "title": null,
+    "title": "Chiragra Spider Conch",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Harpago_Chiragra.stl.zip"
     ],
     "files": [
       "Harpago_Chiragra.stl.zip"
-    ]
+    ],
+    "meta": {
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/shell/carrier-shell/",
-    "title": null,
+    "title": "Xenophora",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Xenophora.obj-1.zip"
     ],
     "files": [
       "Xenophora.obj-1.zip"
-    ]
+    ],
+    "meta": {
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/shell/ramose-murex/",
-    "title": null,
+    "title": "Ramose Murex",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Murex_Romosus.stl.zip"
     ],
     "files": [
       "Murex_Romosus.stl.zip"
-    ]
+    ],
+    "meta": {
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/shell/scallop/",
-    "title": null,
+    "title": "Scallop",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Scallop.obj.zip"
     ],
     "files": [
       "Scallop.obj.zip"
-    ]
+    ],
+    "meta": {
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/crab/ghost-crab/",
-    "title": null,
+    "title": "Ghost Crab",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Ghost_Crab.stl.zip"
     ],
     "files": [
       "Ghost_Crab.stl.zip"
-    ]
+    ],
+    "meta": {
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/crab/elbow-crab/",
-    "title": null,
+    "title": "Elbow Crab",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Elbow_Crab.obj.zip"
     ],
     "files": [
       "Elbow_Crab.obj.zip"
-    ]
+    ],
+    "meta": {
+      "scanned": "2016",
+      "scanner": "Polymetric PT-M"
+    }
   },
   {
     "url": "https://threedscans.com/crab/fiddler-crab/",
-    "title": null,
+    "title": "Fiddler Crab",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Fiddler_Crab.obj.zip"
     ],
     "files": [
       "Fiddler_Crab.obj.zip"
-    ]
+    ],
+    "meta": {
+      "scanned": "2016",
+      "scanner": "Polymetric PT-M"
+    }
   },
   {
     "url": "https://threedscans.com/crab/dark-finger-reef-crab/",
-    "title": null,
+    "title": "Dark Finger Reef Crab",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Dark_Finger_Reef_Crab.obj.zip"
     ],
     "files": [
       "Dark_Finger_Reef_Crab.obj.zip"
-    ]
+    ],
+    "meta": {
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/crab/carcinoplax-suruguensis/",
-    "title": null,
+    "title": "Carcinoplax Suruguensis",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Carcinoplax_Suruguensis.stl.zip"
     ],
     "files": [
       "Carcinoplax_Suruguensis.stl.zip"
-    ]
+    ],
+    "meta": {
+      "scanned": "2016",
+      "scanner": "Artec Spider"
+    }
   },
   {
     "url": "https://threedscans.com/vienna/eisbaer_und_seehund/",
-    "title": null,
+    "title": "Eisbär und Seehund",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Eisbar.stl.zip"
     ],
     "files": [
       "Eisbar.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Otto Jarl",
+      "period": "1902",
+      "material": "Natural stone",
+      "location": "Jörgerstraße 44, 1170 Wien, Pezzlpark",
+      "scanned": "2016",
+      "scanner": "Mantis Vison F5-SR"
+    }
   },
   {
     "url": "https://threedscans.com/theater-museum/fanny-elssler/",
-    "title": null,
+    "title": "Right Foot of the Dancer Fanny Elssler",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Fuß-Fanny-Elssler_mehr_Details-50T.stl.zip"
     ],
     "files": [
       "Fuß-Fanny-Elssler_mehr_Details-50T.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Félicie de Fauveau & Hippolyte de Fauveau",
+      "period": "1847",
+      "material": "Marble",
+      "location": "Vienna",
+      "scanned": "2016",
+      "scanner": "GOM ATOS III Triple Scan"
+    }
   },
   {
     "url": "https://threedscans.com/museum-der-bildenden-kunste-leipzig/beethoven/",
-    "title": null,
+    "title": "Beethoven",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Beethoven.stl.zip"
     ],
     "files": [
       "Beethoven.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Max Klinger",
+      "period": "1902",
+      "material": "Colored stone and bronze with glass, metal, ivory, and precious stone inlays",
+      "location": "Museum der bildenden Künste Leipzig",
+      "scanned": "2016",
+      "scanner": "Photogrammetry & Zbrush sculpting"
+    }
   },
   {
     "url": "https://threedscans.com/vienna/penelope/",
-    "title": null,
+    "title": "Penelope",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/penelope.OBJ.zip"
     ],
     "files": [
       "penelope.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "material": "Plaster",
+      "location": "Institut für Klassische Archäologie, Vienna"
+    }
   },
   {
     "url": "https://threedscans.com/institut-fur-klassische-archaologie/child-with-goose/",
-    "title": null,
+    "title": "Child With Goose",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/05/Child_with_goose.obj.zip"
     ],
     "files": [
       "Child_with_goose.obj.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Boethus",
+      "material": "Plaster copy of marble original",
+      "location": "Institut für Klassische Archäologie, Vienna",
+      "scanned": "2016",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/institut-fur-klassische-archaologie/boy-with-thorn/",
-    "title": null,
+    "title": "Boy With Thorn",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Thorne.obj.zip"
     ],
     "files": [
       "Thorne.obj.zip"
-    ]
+    ],
+    "meta": {
+      "material": "Plaster",
+      "location": "Institut für Klassische Archäologie, Vienna",
+      "scanned": "2016",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/vienna/hermes-fastening-his-sandals/",
-    "title": null,
+    "title": "Hermes Fastening his Sandal",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/hermes.OBJ.zip"
     ],
     "files": [
       "hermes.OBJ.zip"
-    ]
+    ],
+    "meta": {
+      "material": "Plaster",
+      "location": "Institut für Klassische Archäologie, Vienna",
+      "scanned": "2016",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/vienna/lucius-quinctius-cincinnatus/",
-    "title": null,
+    "title": "Lucius Quinctius Cincinnatus",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Lucius_Quinctius_Cincinnatus.stl.zip"
     ],
     "files": [
       "Lucius_Quinctius_Cincinnatus.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Joann Christian Wilhelm Beyer",
+      "period": "between 1773 and 1780",
+      "material": "Marble",
+      "location": "Schloss Schönbrunn Schlosspark, Vienna",
+      "scanned": "2016",
+      "scanner": "Mantis-Vision F5-SR"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/herm-of-plato/",
-    "title": null,
+    "title": "Herm of Plato",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/05/Plato.obj.zip"
     ],
     "files": [
       "Plato.obj.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "material": "Plaster",
+      "location": "Institut für Klassische Archäologie, Vienna",
+      "scanned": "2016",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/institut-fur-klassische-archaologie/thucydides-and-herodotus/",
-    "title": null,
+    "title": "Double Herm with Thucydides and Herodotus",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/DH3_Thucydides-and-Herodotus.stl.zip"
     ],
     "files": [
       "DH3_Thucydides-and-Herodotus.stl.zip"
-    ]
+    ],
+    "meta": {
+      "material": "Plaster",
+      "location": "Institut für Klassische Archäologie, Vienna",
+      "scanned": "2016",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/vienna/socrates-and-seneca/",
-    "title": null,
+    "title": "Double Herm with Socrates and Seneca",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/DH2_Socrates-and-Seneca.stl.zip"
     ],
     "files": [
       "DH2_Socrates-and-Seneca.stl.zip"
-    ]
+    ],
+    "meta": {
+      "material": "Plaster",
+      "scanned": "2016",
+      "scanner": "Creaform Go! SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/vienna/epicurus-and-metrodorus/",
-    "title": null,
+    "title": "Double Herm with Epicurus and Metrodorus",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/DH1_Epic-and-Metro.stl.zip"
     ],
     "files": [
       "DH1_Epic-and-Metro.stl.zip"
-    ]
+    ],
+    "meta": {
+      "material": "Plaster",
+      "location": "Institut für Klassische Archäologie, Vienna",
+      "scanned": "2016",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/musee-des-monuments-francais/le-transi-de-rene-de-chalon/",
-    "title": null,
+    "title": "Le Transi de Rene de Chalon",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Le_Transi_De_Rene_De_Chalon.obj.zip"
     ],
     "files": [
       "Le_Transi_De_Rene_De_Chalon.obj.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Ligier Richier",
+      "period": "1545 (plaster cast from 1922)",
+      "material": "Plaster",
+      "location": "Musée des Monuments Français",
+      "scanned": "2015",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/musee-carnavalet/bressant/",
-    "title": null,
+    "title": "Bressant",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2015/11/Statue_Bressant_1M_Poly.stl.zip"
     ],
     "files": [
       "Statue_Bressant_1M_Poly.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "François Willème",
+      "material": "Bronze",
+      "location": "Musée Carnavalet"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/leroux/",
-    "title": null,
+    "title": "Leroux",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Statue-Provost_1M_Poly.stl-1.zip"
     ],
     "files": [
       "Statue-Provost_1M_Poly.stl-1.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "François Willème",
+      "material": "Bronze"
+    }
   },
   {
     "url": "https://threedscans.com/musee-carnavalet/provost/",
-    "title": null,
+    "title": "Provost",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Statue-Provost_1M_Poly.stl.zip"
     ],
     "files": [
       "Statue-Provost_1M_Poly.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "François Willème",
+      "period": "1861",
+      "material": "Bronze"
+    }
   },
   {
     "url": "https://threedscans.com/musee-carnavalet/delaunay-photosculpture/",
-    "title": null,
+    "title": "Delaunay Photosculpture",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Statue_Delaunay_1M_Poly1.stl.zip"
     ],
     "files": [
       "Statue_Delaunay_1M_Poly1.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Francois Willeme",
+      "period": "1864",
+      "material": "Bronze",
+      "location": "Musée Carnavalet"
+    }
   },
   {
     "url": "https://threedscans.com/museo-archeologico-nazionale/horse/",
-    "title": null,
+    "title": "Horse Head (“Medici Riccardi” horse)",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Horse_Head.obj.zip"
     ],
     "files": [
       "Horse_Head.obj.zip"
-    ]
+    ],
+    "meta": {
+      "period": "Second half of the fourth century BCE",
+      "material": "Bronze",
+      "location": "Museo archeologico nazionale, Florence",
+      "scanned": "2015",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/museo-archeologico-nazionale/athena/",
-    "title": null,
+    "title": "Athena (Minerva Of Arezzo)",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Athena.obj.zip"
     ],
     "files": [
       "Athena.obj.zip"
-    ]
+    ],
+    "meta": {
+      "period": "300–270 BCE",
+      "material": "Bronze, Copper",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/museo-archeologico-nazionale/aule/",
-    "title": null,
+    "title": "Portrait Statue Of Aule Meteli (Arringatore)",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2015/11/Portrait_Statue_Of_-Aule_Meteli.obj.zip"
     ],
     "files": [
       "Portrait_Statue_Of_-Aule_Meteli.obj.zip"
-    ]
+    ],
+    "meta": {
+      "period": "Late second century BCE",
+      "material": "Bronze",
+      "location": "Museo Archeologico Nazionale, Florence"
+    }
   },
   {
     "url": "https://threedscans.com/museo-archeologico-nazionale/efebo/",
-    "title": null,
+    "title": "Efebo (Idolino From Pesaro)",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Ephebe.obj.zip"
     ],
     "files": [
       "Ephebe.obj.zip"
-    ]
+    ],
+    "meta": {
+      "period": "c. 30 BCE",
+      "material": "Bronze, copper, lead",
+      "location": "Museo Archeologico Nazionale, Florence",
+      "scanned": "2014",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/column-07/",
-    "title": null,
+    "title": "Column 07",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/c7.stl"
     ],
     "files": [
       "c7.stl"
-    ]
+    ],
+    "meta": {
+      "location": "KODE Art Museums, Bergen",
+      "scanned": "2014",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/column-06/",
-    "title": null,
+    "title": "Column 06",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/c6.stl"
     ],
     "files": [
       "c6.stl"
-    ]
+    ],
+    "meta": {
+      "location": "KODE Art Museums, Bergen",
+      "scanned": "2014",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/column-05/",
-    "title": null,
+    "title": "Column 05",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/c5.stl"
     ],
     "files": [
       "c5.stl"
-    ]
+    ],
+    "meta": {
+      "location": "KODE Art Museums, Bergen",
+      "scanned": "2014",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/uncategorized/column-04/",
-    "title": null,
+    "title": "Column 04",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/c4.stl"
     ],
     "files": [
       "c4.stl"
-    ]
+    ],
+    "meta": {
+      "location": "KODE Art Museums, Bergen",
+      "scanned": "2014",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/bergen/column-03/",
-    "title": null,
+    "title": "Column 03",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/c3.stl"
     ],
     "files": [
       "c3.stl"
-    ]
+    ],
+    "meta": {
+      "location": "KODE Art Museums, Bergen",
+      "scanned": "2014",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/bergen/coloumn-02/",
-    "title": null,
+    "title": "Column 02",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/c2.stl"
     ],
     "files": [
       "c2.stl"
-    ]
+    ],
+    "meta": {
+      "location": "KODE Art Museums, Bergen",
+      "scanned": "2014",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/test-category/column/",
-    "title": null,
+    "title": "Column",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2015/11/c1.stl"
     ],
     "files": [
       "c1.stl"
-    ]
+    ],
+    "meta": {
+      "location": "KODE Art Museums, Bergen",
+      "scanned": "2014",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/reconstructed/",
-    "title": null,
+    "title": "Font – Reconstructed",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Font_Reconstructed.stl"
     ],
     "files": [
       "Font_Reconstructed.stl"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown (digital reconstruction of complete font)",
+      "period": "Medieval",
+      "material": "Limestone",
+      "location": "The Collection, Lincoln",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/hunter-and-dog/",
-    "title": null,
+    "title": "Hunter and Dog",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/The_Hunter_And_His_Dog.stl.zip"
     ],
     "files": [
       "The_Hunter_And_His_Dog.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "John Gibson",
+      "period": "19th Century",
+      "material": "Stone, marble",
+      "location": "The Usher Gallery, Lincoln",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/nymph/",
-    "title": null,
+    "title": "Nymph Preparing For The Bath",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Nymph_Preparing_For_The_Bath.stl.zip"
     ],
     "files": [
       "Nymph_Preparing_For_The_Bath.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "John Gibson",
+      "period": "19th Century",
+      "material": "Stone, marble",
+      "location": "The Usher Gallery, Lincoln",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/venus-and-cupid/",
-    "title": null,
+    "title": "Venus Kissing Cupid",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Venus_Kissing_Cupid.stl.zip"
     ],
     "files": [
       "Venus_Kissing_Cupid.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "John Gibson",
+      "period": "19th Century",
+      "material": "Marble",
+      "location": "The Usher Gallery, Lincoln"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/mercury/",
-    "title": null,
+    "title": "Mercury",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Mercury.stl.zip"
     ],
     "files": [
       "Mercury.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Joseph Nollekens",
+      "period": "18th Century",
+      "material": "Stone, marble",
+      "location": "The Usher Gallery, Lincoln",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/marble-player/",
-    "title": null,
+    "title": "Marble Player",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Marble_Player.stl.zip"
     ],
     "files": [
       "Marble_Player.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Ella Rose Curtois",
+      "period": "19th Century",
+      "material": "Stone, Marble",
+      "location": "The Usher Gallery, Lincoln"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/mars/",
-    "title": null,
+    "title": "Mars",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Mars.stl.zip"
     ],
     "files": [
       "Mars.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "John Bacon",
+      "period": "18th Century",
+      "material": "Stone, marble",
+      "location": "The Usher Gallery, Lincoln",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/womans-head/",
-    "title": null,
+    "title": "Woman’s Head",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Womans_Head.stl.zip"
     ],
     "files": [
       "Womans_Head.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Artur Loewental",
+      "period": "late 19th Century/early 20th Century",
+      "material": "Plaster",
+      "location": "The Collection, Lincoln",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/loewental/",
-    "title": null,
+    "title": "Beethoven",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/beethovencomplete.stl.zip"
     ],
     "files": [
       "beethovencomplete.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Artur Loewental",
+      "period": "20th Century",
+      "material": "Bronze",
+      "location": "The Collection, Lincoln",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/tennyson/",
-    "title": null,
+    "title": "Tennyson",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Tennyson_Bust_Plaster.stl.zip"
     ],
     "files": [
       "Tennyson_Bust_Plaster.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "Unknown",
+      "material": "Plaster",
+      "location": "The Collection, Lincoln",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/tennyson-in-marble/",
-    "title": null,
+    "title": "Tennyson in marble",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/tennysonbustmarble2.stl.zip"
     ],
     "files": [
       "tennysonbustmarble2.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "Unknown",
+      "material": "Marble",
+      "location": "The Collection, Lincoln",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/john-wesley/",
-    "title": null,
+    "title": "John Wesley",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/johnwesley.stl.zip"
     ],
     "files": [
       "johnwesley.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "sculptor after: Roubilliac, castors: Robinson and Leadbeater",
+      "period": "late 19th Century/early 20th Century",
+      "material": "Parian Ware",
+      "location": "The Collection, Lincoln",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/napoleon/",
-    "title": null,
+    "title": "Napoleon",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Napoleon.stl.zip"
     ],
     "files": [
       "Napoleon.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Antoine Denis Chaudet",
+      "period": "18th Century",
+      "material": "Marble",
+      "location": "The Usher Gallery, Lincoln"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/leon/",
-    "title": null,
+    "title": "Seated Lion",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Lion.stl.zip"
     ],
     "files": [
       "Lion.stl.zip"
-    ]
+    ],
+    "meta": {
+      "material": "Stone",
+      "location": "The Collection, Lincoln"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/queen-margaret/",
-    "title": null,
+    "title": "Queen Margaret",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/queenmargaretLCNUG1927656.stl.zip"
     ],
     "files": [
       "queenmargaretLCNUG1927656.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "John L Hodgson",
+      "period": "early 20th Century",
+      "material": "Plaster",
+      "location": "The Collection, Lincoln",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/aphrodite/",
-    "title": null,
+    "title": "Aphrodite",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/aphrodite.stl.zip"
     ],
     "files": [
       "aphrodite.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Roman copy of Greek Sculpture by Praxiteles",
+      "period": "2nd Century",
+      "material": "Stone, Marble",
+      "location": "The Usher Gallery, Lincoln",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/einstein/",
-    "title": null,
+    "title": "Einstein",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Einstein.stl.zip"
     ],
     "files": [
       "Einstein.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Artur Loewenthal",
+      "period": "20th Century",
+      "material": "Bronze on wooden block",
+      "location": "The Collection, Lincoln"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/bird/",
-    "title": null,
+    "title": "Nigerian Bird Figurine",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Bird_Figurine.stl.zip"
     ],
     "files": [
       "Bird_Figurine.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "19th Century",
+      "material": "Wood",
+      "location": "Lincolnshire Archives",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/bordeaux-alter-cast/",
-    "title": null,
+    "title": "Bordeaux Alter Cast",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/Bordeaux.stl.zip"
     ],
     "files": [
       "Bordeaux.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "Roman",
+      "material": "Resin Cast from millstone grit original",
+      "location": "The Collecton, Lincoln",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/grantham-tomb/",
-    "title": null,
+    "title": "Grantham Tomb",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/04/thegranthamtomb.stl.zip"
     ],
     "files": [
       "thegranthamtomb.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "1618",
+      "material": "Alabaster, Stone",
+      "location": "St. Mary Le Wigford",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/homo_heidelbergensis_model/",
-    "title": null,
+    "title": "Homo Heidelbergensis Model",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Homo_Heidelbergensis_Model.stl.zip"
     ],
     "files": [
       "Homo_Heidelbergensis_Model.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "21st Century",
+      "material": "Plastic",
+      "location": "The Collection, Lincoln",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/bone/",
-    "title": null,
+    "title": "Human Pelvis Bone",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Human_Pelvis_Bone.stl.zip"
     ],
     "files": [
       "Human_Pelvis_Bone.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "n/a: Anglo-Saxon Skeleton",
+      "period": "Anglo-Saxon",
+      "material": "Bone",
+      "location": "Lincolnshire archives"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/helmet/",
-    "title": null,
+    "title": "Saxilby Memorial Helmet",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/Saxilby_Memorial_Helmet.stl.zip"
     ],
     "files": [
       "Saxilby_Memorial_Helmet.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "17th Century",
+      "material": "Iron",
+      "location": "Lincolnshire Archives"
+    }
   },
   {
     "url": "https://threedscans.com/lincoln/saint-hughs/",
-    "title": null,
+    "title": "Saint Hugh",
     "downloads": [
       "https://threedscans.com/wp-content/uploads/2016/02/St_Hugh.stl.zip"
     ],
     "files": [
       "St_Hugh.stl.zip"
-    ]
+    ],
+    "meta": {
+      "artist": "Unknown",
+      "period": "Victorian",
+      "material": "Stone",
+      "location": "St Hughs, Lincoln",
+      "scanned": "2013",
+      "scanner": "Creaform Go!SCAN 3D"
+    }
   }
 ]

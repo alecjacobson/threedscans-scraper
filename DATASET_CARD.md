@@ -2,7 +2,7 @@
 pretty_name: Three D Scans
 license: other
 license_name: no-restrictions-stated-by-author
-license_link: https://www.lincoln3dscans.co.uk/info
+license_link: LICENSE
 task_categories:
   - image-to-3d
 tags:
