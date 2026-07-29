@@ -1,0 +1,12 @@
+# Scraped data — hosted separately, not in git
+downloads/
+
+# Local run state
+cache.json
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
